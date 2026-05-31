@@ -71,6 +71,6 @@ It is clear in the error message that the trunk port on the S2 side is assigned 
 - I then pinged PC4 from PC2 and PC3 from PC2. The ping to PC3 didnt work but PC4 did.
 - This shows the ticket has been resolved and i can move on
 
-## :chart_with_upwards_trend: Learning
+## 📈 Learning
 From troubleshooting these VLANs, I learnt the importance of assigning the ports to the right VLANs, as well as enabling ports corectly as trunk or access ports depending on the requirements.
 
